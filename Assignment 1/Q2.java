@@ -6,7 +6,7 @@ public class Q2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Paragraph");
-        String P = sc.next();
+        String P = sc.nextLine();
         //sc.close();
         Vector<String> v = new Vector<String>();
         boolean EnterMore = true;
@@ -26,6 +26,8 @@ public class Q2 {
             }else{
                 EnterMore = true;
             }
+            // sc1.close();
+            // sc2.close();
         }
         String printMe = "";
         for(String L: P.split(" ")){
@@ -44,5 +46,6 @@ public class Q2 {
         }
         System.out.println("Final Paragraph is: ");
         System.out.println(printMe);
+        sc.close();
     }
 }

@@ -6,7 +6,7 @@ import java.util.*;
 public class Q3 {
     public static class Edge
     {
-        int src, dest, weight;
+        int source, destination, weight;
     }
 
     public static class Graph
@@ -16,13 +16,12 @@ public class Q3 {
     }
 
     //Creating a graph
-    private static Graph createGraph(int V, int E)
+    private static Graph makeGraph(int V, int E)
     {
         Graph graph = new Graph();
         graph.V = V;
         graph.E = E;
         graph.edge = new Edge[graph.E];
-
         for (int i = 0; i < graph.E; i++)
         {
             graph.edge[i] = new Edge();
@@ -31,22 +30,22 @@ public class Q3 {
     }
 
     //Checking if a negative cycle exists
-    private static boolean isNegativeCycle(Graph graph, int src, int v1, int v2)
+    private static boolean NegativeCycle(Graph graph, int source, int v1, int v2)
     {
         int V = graph.V;
         int E = graph.E;
         int[] dist = new int[V];
 
         for (int i = 0; i < V; i++)
-            dist[i] = Integer.MAX_VALUE; //Initialize distances from src to all other vertices as INFINTE
-        dist[src] = 0;
+            dist[i] = Integer.MAX_VALUE; //Initialize distances from source to all other vertices as INFINTE
+        dist[source] = 0;
 
         for (int i = 1; i <= V - 1; i++)
         {
             for (int j = 0; j < E; j++)
             {
-                int u = graph.edge[j].src;
-                int v = graph.edge[j].dest;
+                int u = graph.edge[j].source;
+                int v = graph.edge[j].destination;
                 int weight = graph.edge[j].weight;
                 if (dist[u] != Integer.MAX_VALUE && dist[u] + weight < dist[v])
                     dist[v] = dist[u] + weight;
@@ -55,7 +54,7 @@ public class Q3 {
 
         for (int i = 0; i < E; i++)
         {
-            if(v1 == graph.edge[i].src && v2 == graph.edge[i].dest)
+            if(v1 == graph.edge[i].source && v2 == graph.edge[i].destination)
             {
                 int weight = graph.edge[i].weight;
                 if (dist[v1] != Integer.MAX_VALUE && dist[v1] + weight < dist[v2])
@@ -97,41 +96,39 @@ public class Q3 {
     public static void main(String []args)
     {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a number of vertices: ");
+        System.out.print("Number of vertices: ");
         int V = sc.nextInt();
-        System.out.print("Enter a number of edges: ");
+        System.out.print("Number of edges: ");
         int E = sc.nextInt();
-        Graph graph = createGraph(V, E);
-
-        //Taking input for the values of Graph
+        Graph graph = makeGraph(V, E);
         for(int i=0; i<E; i++)
         {
-            System.out.print("Enter the first vertice: ");
-            graph.edge[i].src = sc.nextInt();
+            System.out.print("Enter the starting vertex: ");
+            graph.edge[i].source = sc.nextInt();
 
-            System.out.print("Enter the second vertice: ");
-            graph.edge[i].dest = sc.nextInt();
+            System.out.print("Enter the ending vertex: ");
+            graph.edge[i].destination = sc.nextInt();
 
             System.out.print("Enter the weight of the edge: ");
             graph.edge[i].weight = sc.nextInt();
         }
 
-        System.out.print("Enter the first node: ");
+        System.out.print("Enter the Source node: ");
         int v1 = sc.nextInt(); //source node
-        System.out.print("Enter the second node: ");
+        System.out.print("Enter the Destination node: ");
         int v2 = sc.nextInt(); //destination node
 
-        if(isNegativeCycle(graph, 0, v1, v2))
+        if(NegativeCycle(graph, 0, v1, v2))
             System.out.println("Negative Cycle Exists");
         else //if negative cycle does not exist
         {
-            boolean[] vis = new boolean[V];
+            boolean[] visited = new boolean[V];
             ArrayList<Integer> pathList = new ArrayList<>();
-            boolean[][] g = new boolean[V][V];
+            boolean[][] graphPos = new boolean[V][V];
             for (Edge e : graph.edge)
-                g[e.src-1][e.dest-1] = true; //creating a adjanceny matrix
+                graphPos[e.source-1][e.destination-1] = true; //creating a adjanceny matrix
             System.out.println("All paths from source to destination: ");
-            allPaths(V, v1-1, v2-1, g, pathList, 0, vis);
+            allPaths(V, v1-1, v2-1, graphPos, pathList, 0, visited);
         }
     }
 }
