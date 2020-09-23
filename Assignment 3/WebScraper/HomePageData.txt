@@ -1,0 +1,630 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <head profile="http://www.w3.org/1999/xhtml/vocab"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+  <meta name="Generator" content="Drupal 7 (http://drupal.org)"> 
+  <link rel="shortcut icon" href="https://pec.ac.in/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <title>Welcome to Punjab Engineering College  | Punjab Engineering College </title> 
+  <link type="text/css" rel="stylesheet" href="https://pec.ac.in/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://pec.ac.in/sites/default/files/css/css_-TNq6F6EH1K3WcBMUMQP90OkyCq0Lyv1YnyoEj3kxiU.css" media="screen"> 
+  <style type="text/css" media="print">
+<!--/*--><![CDATA[/*><!--*/
+#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+
+/*]]>*/-->
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://pec.ac.in/sites/default/files/css/css_1jEgW6JeLJ1jwgOCUO5jOg5eFratseA9pQHhnjRNL7g.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://pec.ac.in/sites/default/files/css/css_HEZxPEXGUtyxP4W6pA5LWrRs7meQgO7875bQYUeLVNM.css" media="all"> 
+  <style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+@media (max-width:460px){.hideonmobile{display:none !important;}}
+
+/*]]>*/-->
+</style> 
+  <link type="text/css" rel="stylesheet" href="https://pec.ac.in/sites/default/files/css/css_u5ktW_-Ow0bFhbQdTWikpAI6r99GUActYFex2awjSR0.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://pec.ac.in/sites/default/files/css/css_DAYldF43MtzRSWcYChPMXA5tgJWv_HAM5F1QULr-hjI.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://pec.ac.in/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all"> 
+  <script type="text/javascript" src="https://pec.ac.in/sites/default/files/js/js_UxzRxogeeGHS7uzD6S-L4x1T1KcJmuHLcTjPSADLrxM.js"></script> 
+  <script type="text/javascript" src="https://pec.ac.in/sites/default/files/js/js_ntSon_Y-sA7NQrHaVSY0sBWKZcX0DWbSW5PUIHCH--I.js"></script> 
+  <script type="text/javascript" src="https://pec.ac.in/sites/default/files/js/js_qoIJ57PC5qcCJH4m-5nP6G8BkMF4ePLbs3kIpmE4b_I.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {
+      $(document).ready(function() {
+          effectsIn = Drupal.settings.inEffects;
+          effectsOut = Drupal.settings.outEffects;
+          var options_1 = Drupal.settings.md_slider_options_1;$('#md-slider-1-block').mdSlider(options_1);
+      });
+    })(jQuery);
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://pec.ac.in/sites/default/files/js/js_mxVxRwtM8zTUhax5VXUfpi_5bwiz9CKRhrqRCivqM-8.js"></script> 
+  <script type="text/javascript" src="https://pec.ac.in/sites/default/files/js/js_-OEBYcpvulHGI98himerb7wbxe_YbB9LDx_bCa9b4k8.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+          Shadowbox.path = "/sites/all/libraries/shadowbox/";
+        
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"consilium","theme_token":"X7sHVdAxkF6XsR97EezuT2bQiMCVoLCoaAdLC0z0rNE","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/shadowbox\/shadowbox.js":1,"sites\/all\/modules\/shadowbox\/shadowbox_auto.js":1,"sites\/all\/libraries\/isotope\/jquery.isotope.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/modules\/superhero_dropdown\/js\/superhero-dropdown.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.touchwipe.js":1,"sites\/all\/modules\/md_slider\/js\/modernizr.js":1,"sites\/all\/modules\/md_slider\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.easing.js":1,"sites\/all\/modules\/md_slider\/js\/md-slider.js":1,"0":1,"sites\/all\/libraries\/bxslider\/jquery.bxslider.js":1,"sites\/all\/modules\/responsive_slideshow\/js\/responsive_slideshow.js":1,"sites\/all\/libraries\/stellar.js\/jquery.stellar.min.js":1,"sites\/all\/themes\/superhero\/js\/smoothscroll.js":1,"sites\/all\/themes\/superhero\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/superhero\/vendor\/jquery.appear.js":1,"sites\/all\/themes\/superhero\/js\/superhero.js":1,"sites\/all\/themes\/superhero\/js\/superhero-sticky.js":1,"sites\/all\/themes\/consilium\/js\/modernizr.min.js":1,"sites\/all\/themes\/consilium\/js\/jquery.hoverdir.js":1,"sites\/all\/themes\/consilium\/js\/consilium.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/shadowbox\/shadowbox.css":1,"0":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/isotope\/jquery.isotope.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/modules\/superhero_dropdown\/css\/superhero-dropdown.css":1,"sites\/all\/modules\/md_slider\/css\/animate.css":1,"sites\/all\/modules\/md_slider\/css\/md-slider.css":1,"public:\/\/md-slider-pec-slider-1-layers.css":1,"sites\/all\/modules\/md_slider\/css\/md-slider-style.css":1,"1":1,"sites\/all\/libraries\/bxslider\/jquery.bxslider.css":1,"sites\/all\/modules\/superhero_block\/css\/block.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/superhero\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/themes\/superhero\/vendor\/bootstrap\/css\/bootstrap-theme.min.css":1,"sites\/all\/themes\/superhero\/vendor\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/superhero\/vendor\/animate.css":1,"sites\/all\/themes\/superhero\/css\/main.css":1,"sites\/all\/themes\/consilium\/style.css":1,"sites\/all\/themes\/consilium\/animations.css":1,"public:\/\/css\/consilium-theme-preset1.css":1}},"shadowbox":{"animate":1,"animateFade":0,"animSequence":"wh","auto_enable_all_images":1,"auto_gallery":1,"autoplayMovies":true,"continuous":0,"counterLimit":"10","counterType":"default","displayCounter":1,"displayNav":1,"enableKeys":1,"fadeDuration":"0.35","handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":"0.85","resizeDuration":"0.35","showMovieControls":1,"slideshowDelay":"0","viewportPadding":20,"useSizzle":0},"urlIsAjaxTrusted":{"\/":true},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut","bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_1":{"fullwidth":false,"transitionsSpeed":800,"width":"750","height":"300","enableDrag":true,"responsive":true,"pauseOnHover":true,"loop":true,"showLoading":true,"loadingPosition":"bottom","showArrow":true,"showBullet":true,"posBullet":"3","showThumb":false,"posThumb":"1","slideShowDelay":"50000","slideShow":true,"styleBorder":"0","styleShadow":"0","videoBox":false},"responsiveSlideshow":{"announcements-block":{"mode":"horizontal","speed":"500","auto":true,"pause":"4000","infiniteLoop":true,"slideMargin":20,"startSlide":"0","randomStart":false,"pager":true,"controls":true,"minSlides":"1","maxSlides":"1","moveSlides":"0","slideWidth":"","prevText":"\u003Ci class=\u0022fa fa-angle-left\u0022\u003E\u003C\/i\u003E","nextText":"\u003Ci class=\u0022fa fa-angle-right\u0022\u003E\u003C\/i\u003E"}}});
+//--><!]]>
+</script> 
+ </head> 
+ <body class="html front not-logged-in no-sidebars page-node wide ltr"> 
+  <div class="body-innerwrapper"> 
+   <div id="skip-link"> 
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
+   </div> 
+   <div class="body"> 
+    <div class="col-lg-12"> 
+    </div> 
+    <section id="section-header" class="section section-header superhero-sticky"> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="region region-help col-lg-12"> 
+        <div id="block-block-10" class="block block-block"> 
+         <div class="content"> 
+          <div> 
+           <div class="col-md-6"> 
+            <div class="quick-links"> 
+             <div class="container"> 
+              <ul class="list-inline"> 
+               <li><a href="https://alumni.pec.ac.in/" target="_blank">Alumni</a></li> 
+               <li><a href="https://pec.ac.in/institute/email-services">Webmail</a></li> 
+               <li><a href="/jobs">Jobs</a></li> 
+               <li><a href="/tenders">Tenders</a></li> 
+               <li><a href="https://pec.ac.in/office-orders">Office Orders</a></li>
+               <a href="https://pec.ac.in/office-orders"> </a>
+               <li><a href="https://pec.ac.in/office-orders"></a><a href="https://pec.ac.in/nirf-data-20">NIRF</a></li> 
+               <li><a href="/node/549">RTI</a></li> 
+               <li><a href="/tnp/about-cell">Placements</a></li> 
+               <li><a href="/institute-functionaries">Contact Us</a></li> 
+               <li class="search hidden-xs">
+                <form onsubmit="if(this.search_block_form.value=='Search'){ alert('Please enter a search'); return false; }" action="/" method="post" id="search-block-form" accept-charset="UTF-8">
+                 <div> 
+                  <div class="container-inline col-md-12"> 
+                   <div class="control-group form-type-textfield form-item-search-block-form form-item"> 
+                    <label class="element-invisible control-label" for="edit-search-block-form--2">Search </label> 
+                    <div class="controls"> 
+                     <input title="Enter the terms you wish to search for." style="border-radius: 2px;" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text"> 
+                    </div>
+                   </div> 
+                   <div class="form-actions form-wrapper" id="edit-actions">
+                    <input style="display:none;" type="image" id="edit-submit" name="submit" src="/sites/all/themes/consilium/images/search-button.png" class="form-submit">
+                   </div>
+                   <input type="hidden" name="form_build_id" value="form-NtwAP9dkhLRa5-ryZxuwR2NFlEbxGoE0jI3I9SGXIik"> 
+                   <input type="hidden" name="form_id" value="search_block_form"> 
+                  </div> 
+                 </div>
+                </form></li>
+              </ul> 
+             </div>
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="region region-logo col-xs-12 col-sm-12 col-md-2 col-lg-2"> 
+        <div class="site-logo clearfix"> 
+         <a href="/" rel="home" class="active"><img src="https://pec.ac.in/sites/default/files/pec-logo.png" id="logo"></a> 
+        </div> 
+       </div> 
+       <div class="region region-menu col-xs-12 col-sm-12 col-md-10 col-lg-10"> 
+        <div id="block-superhero-dropdown-superhero-dropdown-block-2" class="block block-superhero-dropdown"> 
+         <div class="content"> 
+          <a data-target=".nav-collapse" data-toggle="collapse" href="#" class="hidden-lg hidden-md superhero-mobile-menu-toggle .btn .btn-default"> <i class="fa fa-align-justify"></i> </a> 
+          <div class="superhero-dropdown"> 
+           <ul class="menu">
+            <li class="first leaf"><a href="/" class="active">Home</a></li> 
+            <li class="expanded"><a href="/institute" title="">Institute</a>
+             <ul class="menu">
+              <li class="first leaf"><a href="/history">History</a></li> 
+              <li class="leaf"><a href="/vision">Vision &amp; Mission</a></li> 
+              <li class="leaf"><a href="/campus">Campus</a></li> 
+              <li class="leaf"><a href="/location">Location</a></li> 
+              <li class="leaf"><a href="/all_events" title="">News and Events</a></li> 
+              <li class="leaf"><a href="/tenders" title="">Tenders &amp; Quotations</a></li> 
+              <li class="leaf"><a href="/balance-sheets">Balance Sheets</a></li> 
+              <li class="leaf"><a href="http://pec.ac.in/rules-guidelines-forms" title="">Rules, Guidelines &amp; Forms</a></li> 
+              <li class="leaf"><a href="/faculty-affairs">Faculty Affairs</a></li> 
+              <li class="last leaf"><a href="/institute/iqac-reports" title="">IQAC Reports</a></li> 
+             </ul></li> 
+            <li class="expanded"><a href="/administration">Administration</a>
+             <ul class="menu">
+              <li class="first leaf"><a href="/board-of-governors">Board Of Governors</a></li> 
+              <li class="leaf"><a href="/chairman-bog">Chairman, Board of Governors</a></li> 
+              <li class="leaf"><a href="/director">Director</a></li> 
+              <li class="leaf"><a href="/senate-members">Senate Members</a></li> 
+              <li class="leaf"><a href="/building-works-committee">Building &amp; Works Committee</a></li> 
+              <li class="leaf"><a href="/finance-committee" title="">Finance Committee</a></li> 
+              <li class="leaf"><a href="/grievance-redressal-committee">Grievance Redressal Committee</a></li> 
+              <li class="leaf"><a href="/institute-functionaries">Institute Functionaries</a></li> 
+              <li class="last leaf"><a href="/minutes-meetings">Minutes of Meetings</a></li> 
+             </ul></li> 
+            <li class="expanded"><a href="/programmes">Programmes</a>
+             <ul class="menu">
+              <li class="first leaf"><a href="/programmes/ug/structure">Undergraduate</a></li> 
+              <li class="leaf"><a href="/programmes/pg/structure">Postgraduate</a></li> 
+              <li class="leaf"><a href="/programmes/phd">Doctorate</a></li> 
+              <li class="leaf"><a href="/programmes/student-support">Academic Support for Students</a></li> 
+              <li class="leaf"><a href="/programmes/accreditation">Accreditation</a></li> 
+              <li class="leaf"><a href="/programmes/scholarships" title="">Scholarships</a></li> 
+              <li class="leaf"><a href="/iqac/aqar-reports">IQAC Reports</a></li> 
+              <li class="last leaf"><a href="https://eakadamik.in/pec/" title="">E-Academic Portal</a></li> 
+             </ul></li> 
+            <li class="leaf"><a href="/admissions">Admissions</a></li> 
+            <li class="expanded"><a href="/academic-units">Academic Units</a>
+             <ul class="menu">
+              <li class="first leaf"><a href="/departments">Departments</a></li> 
+              <li class="last leaf"><a href="/centres">Centres</a></li> 
+             </ul></li> 
+            <li class="expanded"><a href="/research/overview">Research</a>
+             <ul class="menu">
+              <li class="first leaf"><a href="/research/overview">Overview</a></li> 
+              <li class="leaf"><a href="/research-groups">Research Groups</a></li> 
+              <li class="leaf"><a href="/sponsored-research">Sponsored Research</a></li> 
+              <li class="leaf"><a href="/house-projects">In-House Projects</a></li> 
+              <li class="leaf"><a href="/consultancy">Consultancy</a></li> 
+              <li class="leaf"><a href="/courses-and-conferences">Courses and Conferences</a></li> 
+              <li class="leaf"><a href="/yrf/about-programme">Young Research Fellows Programme</a></li> 
+              <li class="leaf"><a href="/norms-and-forms">Norms and Forms</a></li> 
+              <li class="last leaf"><a href="/research/contacts">Contacts</a></li> 
+             </ul></li> 
+            <li class="last expanded"><a href="/campus-life">Campus Life</a>
+             <ul class="menu">
+              <li class="first leaf"><a href="/current-students" title="">Students</a></li> 
+              <li class="leaf"><a href="/facilities">Facilities</a></li> 
+              <li class="last leaf"><a href="https://www.onlinesbi.com/" title="">Online Fee Payment</a></li> 
+             </ul></li> 
+           </ul>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </section>
+    <section id="section-latest" class="section section-latest"> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="region region-latest-first col-xs-12 col-sm-8 col-md-8 col-lg-8"> 
+        <div id="block-md-slider-pec-slider-1" class="block block-md-slider title-line"> 
+         <h3 class="block-title"><span class="title">Punjab Engineering College (Deemed to be University), Chandigarh</span></h3> 
+         <div class="content"> 
+          <div id="md-slider-1-block" class="md-slide-items" data-thumb-width="100" data-thumb-height="75"> 
+           <div class="md-slide-item slide-1" data-timeout="8000" data-transition="slit-horizontal-left-top,slit-horizontal-top-right,slit-horizontal-bottom-up,slit-vertical-down,slit-vertical-up" data-thumb-type="image" data-thumb-alt="" data-thumb="https://pec.ac.in/sites/default/files/styles/md_slider_1_thumb/public/mou_pec_bansal_envirotech_cover.jpeg?itok=L4BY7jbX"> 
+            <div class="md-mainimg" style=""> 
+             <img src="https://pec.ac.in/sites/default/files/mou_pec_bansal_envirotech_cover.jpeg" alt=""> 
+            </div> 
+            <div class="md-slider-overlay" style="background: rgba(140, 21, 21, 0)"> 
+            </div> 
+            <div class="md-objects"> 
+             <div class="md-object md-layer-1-0-0 fdsfds" data-x="21" data-y="229" data-width="548" data-height="20" data-start="500" data-stop="7600" data-easein="fadeInLeft" data-easeout="fadeOutRight" data-paddingtop="20" data-paddingright="20" data-paddingbottom="20" data-paddingleft="20"> 
+              <a href="https://pec.ac.in/events/mou-signed-between-pec-and-bansal-envirotech">MoU signed between PEC and Bansal EnviroTech</a> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="md-slide-item slide-2" data-timeout="8000" data-transition="slit-horizontal-left-top,slit-horizontal-top-right,slit-horizontal-bottom-up,slit-vertical-down,slit-vertical-up" data-thumb-type="image" data-thumb-alt="" data-thumb="https://pec.ac.in/sites/default/files/styles/md_slider_1_thumb/public/mou_pec_kisc_cover.jpeg?itok=4bDhP6zu"> 
+            <div class="md-mainimg" style=""> 
+             <img src="https://pec.ac.in/sites/default/files/mou_pec_kisc_cover.jpeg" alt=""> 
+            </div> 
+            <div class="md-objects"> 
+             <div class="md-object md-layer-1-1-0 fdsfds" data-x="21" data-y="229" data-width="600" data-height="20" data-start="500" data-stop="7600" data-easein="fadeInLeft" data-easeout="fadeOutRight" data-paddingtop="20" data-paddingright="20" data-paddingbottom="20" data-paddingleft="20"> 
+              <a href="https://pec.ac.in/events/mou-signed-between-pec-and-kisco-india-private-limited-kipl">MoU signed between PEC and KISCO India Private Limited (KIPL)</a> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="md-slide-item slide-3" data-timeout="8000" data-transition="slit-horizontal-left-top,slit-horizontal-top-right,slit-horizontal-bottom-up,slit-vertical-down,slit-vertical-up" data-thumb-type="image" data-thumb-alt="" data-thumb="https://pec.ac.in/sites/default/files/styles/md_slider_1_thumb/public/homecoming-2020_pec_cover.JPG?itok=yTdgCadx"> 
+            <div class="md-mainimg" style=""> 
+             <img src="https://pec.ac.in/sites/default/files/homecoming-2020_pec_cover.JPG" alt=""> 
+            </div> 
+            <div class="md-objects"> 
+             <div class="md-object md-layer-1-2-0 fdsfds" data-x="21" data-y="229" data-width="443" data-height="20" data-start="500" data-stop="7600" data-easein="fadeInLeft" data-easeout="fadeOutRight" data-paddingtop="20" data-paddingright="20" data-paddingbottom="20" data-paddingleft="20"> 
+              <a href="https://pec.ac.in/events/homecoming-2020-first-annual-alumni-meet">Homecoming 2020: First Annual Alumni Meet</a> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="md-slide-item slide-4" data-timeout="8000" data-transition="slit-horizontal-left-top,slit-horizontal-top-right,slit-horizontal-bottom-up,slit-vertical-down,slit-vertical-up,strip-up-down-left" data-thumb-type="image" data-thumb-alt="" data-thumb="https://pec.ac.in/sites/default/files/styles/md_slider_1_thumb/public/siemens_coe_inaugurated_pec_cover.JPG?itok=sTl2lxOS"> 
+            <div class="md-mainimg" style=""> 
+             <img src="https://pec.ac.in/sites/default/files/siemens_coe_inaugurated_pec_cover.JPG" alt=""> 
+            </div> 
+            <div class="md-objects"> 
+             <div class="md-object md-layer-1-3-0 fdsfds" data-x="21" data-y="230" data-width="461" data-height="20" data-start="500" data-stop="7600" data-easein="fadeInLeft" data-easeout="fadeOutRight" data-paddingtop="20" data-paddingright="20" data-paddingbottom="20" data-paddingleft="20"> 
+              <a href="https://pec.ac.in/events/siemens-center-excellence-inaugurated-pec">Siemens Center of Excellence Inaugurated at PEC</a> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="md-slide-item slide-5" data-timeout="8000" data-transition="slit-horizontal-left-top,slit-horizontal-top-right,slit-horizontal-bottom-up,slit-vertical-down,slit-vertical-up" data-thumb-type="image" data-thumb-alt="" data-thumb="https://pec.ac.in/sites/default/files/styles/md_slider_1_thumb/public/plastic.jpg?itok=PauIxpzd"> 
+            <div class="md-mainimg" style=""> 
+             <img src="https://pec.ac.in/sites/default/files/plastic.jpg" alt=""> 
+            </div> 
+            <div class="md-objects"> 
+             <div class="md-object md-layer-1-4-0 fdsfds" data-x="21" data-y="229" data-width="543" data-height="20" data-start="500" data-stop="7600" data-easein="fadeInLeft" data-easeout="fadeOutRight" data-paddingtop="20" data-paddingright="20" data-paddingbottom="20" data-paddingleft="20"> 
+              <a href="http://chandigarhenvis.gov.in/">Ban on Single Use Plastic/ Thermocol Items in Chandigarh</a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="block-block-20" class="block block-block title-line"> 
+         <h3 class="block-title"><span class="title">Distinguished Alumnus Award</span></h3> 
+         <div class="content"> 
+          <p>
+           <marquee behavior="left" scrollamount="5">
+            <span style="font-size:16px;"><a href="https://pec.ac.in/donations/distinguished-alumnus-award"><span style="color: #8c1515;">Nominations are invited for Distinguished Alumnus Award and Young Alumnus Award 2020. The nomination process closes on 30th September 2020.</span></a></span>
+           </marquee></p> 
+         </div> 
+        </div> 
+        <div id="block-views-top-stories-block" class="block block-views title-line"> 
+         <h3 class="block-title"><span class="title">Top Stories</span></h3> 
+         <div class="content"> 
+          <div class="view view-top-stories view-id-top_stories view-display-id-block view-dom-id-f2a4fdfdc6e2000ec1275520f1f15ca0"> 
+           <div class="view-content"> 
+            <div class="row"> 
+             <div class="col-sm-4"> 
+              <div class="col-padding">
+               <a href="https://pec.ac.in/events/oldest-alum-attendance-homecoming-2020"><img class="image-responsive" src="https://pec.ac.in/sites/default/files/top_stories/oldest_alumni_pec_top_story.jpg"></a> 
+               <h5><a href="https://pec.ac.in/events/oldest-alum-attendance-homecoming-2020">Oldest Alum at Homecoming: 2020</a></h5> 
+               <p class="">PEC welcomed Mr. Bikram Singh Garewal, the university’s oldest alum at Homecoming 2020: Global Alumni Meet. After graduating from PEC in 1943, Mr.Bikram has gone on to achieve many great feats in life.</p> 
+              </div> 
+             </div> 
+             <div class="col-sm-4"> 
+              <div class="col-padding">
+               <a href="https://pec.ac.in/events/mou-signed-between-pec-and-peda"><img class="image-responsive" src="https://pec.ac.in/sites/default/files/top_stories/mou_pec_peda_top_story.JPG"></a> 
+               <h5><a href="https://pec.ac.in/events/mou-signed-between-pec-and-peda"> MOU Between PEC and PEDA</a></h5> 
+               <p class="">A MoU was signed between PEC and PEDA for Research and Development Projects on Energy Conservation &amp; Energy Efficiency under Bureau of Energy Efficiency, Ministry of Power, Govt. of India.</p> 
+              </div> 
+             </div> 
+             <div class="col-sm-4"> 
+              <div class="col-padding">
+               <a href="https://pec.ac.in/events/98th-foundation-day"><img class="image-responsive" src="https://pec.ac.in/sites/default/files/top_stories/foundation_day_top_story_pec.JPG"></a> 
+               <h5><a href="https://pec.ac.in/events/98th-foundation-day">98th Foundation Day</a></h5> 
+               <p class="">PEC has completed 98 wonderful years since it’s foundation in 1921. A celebratory event was organized to mark the foundation of the college. The Chief Guest for the event was Director, PEC, Prof. Dheeraj Sanghi.</p> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="block-block-6" class="block block-block title-line"> 
+         <h3 class="block-title"><span class="title">Explore</span></h3> 
+         <div class="content"> 
+          <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,500,700" rel="stylesheet" type="text/css">
+          <link rel="stylesheet" type="text/css" href="https://pec.ac.in/sites/default/files/plugins/select/css/cs-select.css">
+          <link rel="stylesheet" type="text/css" href="https://pec.ac.in/sites/default/files/plugins/select/css/cs-skin-slide.css">
+          <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><p>		<![endif]-->
+          <div class="row center-block"> 
+           <div class="col-md-4"> 
+            <section>
+             <select class="cs-select cs-skin-slide"><option disabled selected>Admissions</option><option value="http://pec.ac.in/admissions">General Information</option><option value="http://pec.ac.in/admissions/btech">B.Tech. Admissions</option><option value="http://pec.ac.in/admissions/mtech">M.Tech. Admissions</option><option value="http://pec.ac.in/admissions/phd">Ph.D Admissions</option></select>
+             <p> </p>
+            </section>
+           </div> 
+           <div class="col-md-4"> 
+            <section>
+             <select class="cs-select cs-skin-slide"><option disabled selected>Alumni</option><option value="http://alumni.pec.ac.in/">Alumni Portal</option><option value="http://alumni.pec.ac.in/giving-back">Giving Back</option><option value="http://alumni.pec.ac.in/connect">Connect</option><option value="http://alumni.pec.ac.in/student-register">Alumni Registration</option></select>
+             <p> </p>
+            </section>
+           </div> 
+           <div class="col-md-4"> 
+            <section>
+             <select class="cs-select cs-skin-slide"><option disabled selected>Central Library</option><option value="http://pec.ac.in/library">Central Library</option><option value="http://pec.ac.in/library/sections">Sections</option><option value="http://pec.ac.in/library/membership-facilities">Membership Facilities</option><option value="http://pec.ac.in/library/multimedia-resource-centre">Multimedia Resource Centre</option><option value="http://pec.ac.in/library/e-resources">Resources</option><option value="http://pec.ac.in/library/internal-services">Internal Services</option></select>
+             <p> </p>
+            </section>
+           </div> 
+          </div> 
+          <hr>
+          <div class="row center-block"> 
+           <div class="col-md-4"> 
+            <section>
+             <select class="cs-select cs-skin-slide"><option disabled selected>TEQIP III</option><option value="http://pec.ac.in/teqip-third-phase">TEQIP-III</option><option value="http://pec.ac.in/teqip-third-phase/key-activities">Key Activities</option><option value="http://pec.ac.in/teqip-third-phase/happenings">Happenings</option><option value="http://pec.ac.in/teqip-third-phase/download-forms">Downloads</option><option value="http://pec.ac.in/teqip-third-phase/media-coverage">Media Coverage</option><option value="http://pec.ac.in/teqip">TEQIP II Archive</option></select>
+             <p> </p>
+            </section>
+           </div> 
+           <div class="col-md-4"> 
+            <section>
+             <select class="cs-select cs-skin-slide"><option disabled selected>Placements</option><option value="/tnp/about-cell">About the Centre</option><option value="/node/364">Director's Message</option><option value="/node/365">Head's Message</option><option value="/node/367">Why @ PEC?</option><option value="/node/373">Past Recruiters</option><option value="/node/701">Contact Us</option></select>
+             <p> </p>
+            </section>
+           </div> 
+           <div class="col-md-4"> 
+            <section>
+             <select class="cs-select cs-skin-slide"><option disabled selected>Notices</option><option value="/tenders">Tenders</option><option value="https://pec.ac.in/notices">E-Notices</option><option value="/jobs">Jobs</option></select>
+             <p> </p>
+            </section>
+           </div> 
+          </div> 
+          <script src="https://pec.ac.in/sites/default/files/plugins/select/js/classie.js"></script>
+          <script src="https://pec.ac.in/sites/default/files/plugins/select/js/selectFx.js"></script>
+          <script>
+<!--//--><![CDATA[// ><!--
+
+	(function() {
+		[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {	
+		new SelectFx(el);
+			} );
+		})();
+
+//--><!]]>
+</script> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="region region-news2 col-xs-12 col-sm-4 col-md-4 col-lg-4"> 
+        <div id="block-views-announcements-block" class="block block-views title-line"> 
+         <h3 class="block-title"><span class="title">Announcements</span></h3> 
+         <div class="content"> 
+          <div class="view view-announcements view-id-announcements view-display-id-block view-dom-id-9f1dea571b5c16fbbd8c0dab333b83ad"> 
+           <div class="view-content"> 
+            <div id="announcements-block" class="views-bx-slideshow"> 
+             <div class="slide views-row views-row-2 views-row-even"> 
+              <div class="views-field views-field-field-description-event"> 
+               <div class="field-content">
+                <a href="https://pec.ac.in/sites/default/files/uploads/events/STC-MMCO-2021.pdf"><p>One week STC on Micro Manufacturing from 4th to 8th January, 2021</p> </a>
+               </div> 
+              </div> 
+             </div> 
+             <div class="slide views-row views-row-2 views-row-even"> 
+              <div class="views-field views-field-field-description-event"> 
+               <div class="field-content">
+                <a href="https://www.pec.ac.in/sites/default/files/uploads/events/notice_shivalik_hostel_covid.pdf"><p>Chandigarh Administration has desired Shivalik Hostel to be used as a Quarantine Centre for COVID-19</p> </a>
+               </div> 
+              </div> 
+             </div> 
+             <div class="slide views-row views-row-2 views-row-even"> 
+              <div class="views-field views-field-field-description-event"> 
+               <div class="field-content">
+                <a href="https://pec.ac.in/sites/default/files/uploads/events/Email_Manual.pdf"><p>Manual to Access pec.edu.in Email ID</p> </a>
+               </div> 
+              </div> 
+             </div> 
+             <div class="slide views-row views-row-2 views-row-even"> 
+              <div class="views-field views-field-field-description-event"> 
+               <div class="field-content">
+                <a href="https://pec.ac.in/sites/default/files/uploads/events/corona_virus_urgent_notice.pdf"><p>As a precautionary measure against the spread of Corona Virus, teaching shall remain suspended in the institute indefinitely.</p> </a>
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="block-block-25" class="block block-block"> 
+         <div class="content"> 
+          <div class="row" style="margin-top:-25px;">
+           <a class="btn btn-danger col-md-12" href="https://pec.ac.in/donations/" onclick="window.open(this.href, 'ContributeNow', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">Contribute to Covid Emergency Funds</a>
+          </div> 
+          <div class="row" style="margin-top: 5px;">
+           <a href="https://pec.ac.in/institute/covid-19-corona-virus/notifications"><img alt="" class="center-block img-responsive" src="https://pec.ac.in/sites/default/files/uploads/corona_virus_pec.jpg" style=""></a>
+          </div> 
+         </div> 
+        </div> 
+        <div id="block-block-27" class="block block-block title-line"> 
+         <h3 class="block-title"><span class="title">Important Links</span></h3> 
+         <div class="content"> 
+          <ul class="list-group">
+           <!--<li class="list-group-item"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i> <a href="https://pec.ac.in/sites/default/files/uploads/pdf/pec_homecoming_2020_schedule.pdf">Schedule for PEC Homecoming 2020 - Global Alumni Meet </a></li>-->
+           <!--<li class="list-group-item"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i> <a href="https://pec.ac.in/sites/default/files/uploads/fee_notice_19_20.pdf">Fee Notice</a> <strong>|</strong> <a href="https://www.onlinesbi.com/" target="_blank">Online Fee Payment</a></li>-->
+           <li class="list-group-item"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i> <a href="https://pec.ac.in/jobs/job-19-7-18/details">Rolling Advertisement for the Temporary Engagement of Faculty Positions at the level of Assistant Professor on contract for three years.</a></li> 
+           <!--<li class="list-group-item"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i> <a href="https://www.pec.ac.in/jobs/job-04-12-19/csrc/details">Openings for Faculty Positions in Cyber Security Research Centre at PEC, Chandigarh</a></li>-->
+           <li class="list-group-item"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i> <a href="https://pec.ac.in/events/voyager-program-details">Description, Purpose and Guidelines of the Voyager Program</a></li> 
+           <!--<li class="list-group-item"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i> <a href="https://pec.ac.in/nirf-data-20">Data Submitted for Participation in National Institutional Ranking Framework (NIRF) India Rankings 2020</a></li>-->
+          </ul>
+          <!--break--> 
+         </div> 
+        </div> 
+        <div id="block-views-event-block" class="block block-views title-line"> 
+         <h3 class="block-title"><span class="title">Headlines</span></h3> 
+         <div class="content"> 
+          <div class="view view-event view-id-event view-display-id-block view-dom-id-1520e392c0ea117c34ec422752d8f174"> 
+           <div class="view-content"> 
+            <div class="col-lg-12"> 
+             <div class="row"> 
+              <ul class="list-group"> 
+               <li class="list-group-item"> 
+                <div class="views-field views-field-title"> 
+                 <span class="field-content"><a href="/events/dr-sanjeev-kumar-pec-india-2020-top-cited-paper-award">Dr. Sanjeev Kumar has received the India 2020 Top Cited Paper Award</a></span> 
+                </div> </li> 
+               <li class="list-group-item"> 
+                <div class="views-field views-field-title"> 
+                 <span class="field-content"><a href="/events/online-short-term-course-stc-smart-functional-materials-emerging-applications">Online Short Term Course (STC) on Smart Functional Materials for Emerging Applications</a></span> 
+                </div> </li> 
+               <li class="list-group-item"> 
+                <div class="views-field views-field-title"> 
+                 <span class="field-content"><a href="/events/webinar-ansys-high-frequency-application-5g-antenna">Webinar on ANSYS High Frequency Application in 5G Antenna</a></span> 
+                </div> </li> 
+               <li class="list-group-item"> 
+                <div class="views-field views-field-title"> 
+                 <span class="field-content"><a href="/events/two-days-workshop-advanced-functional-materials-wafm-2020">Two Days Workshop on Advanced Functional Materials (WAFM-2020)</a></span> 
+                </div> </li> 
+               <li class="list-group-item"> 
+                <div class="views-field views-field-title"> 
+                 <span class="field-content"><a href="/events/online-short-term-course-nanotechnology-electronic-and-photonic-devices-nanodev-2020">Online Short Term Course on Nanotechnology for Electronic and Photonic Devices (NANODEV-2020) </a></span> 
+                </div> </li> 
+              </ul> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="more-link"> 
+            <a href="/all_events"> All Events </a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="block-block-14" class="block block-block title-line"> 
+         <h3 class="block-title"><span class="title">Connect</span></h3> 
+         <div class="content"> 
+          <div class="col-md-12 text-center"> 
+           <ul class="social-network social-circle center-block">
+            <li><a class="icoFacebook" href="https://www.facebook.com/pec.university.official/" title="Facebook"><i class="fa fa-facebook"></i></a></li> 
+            <li><a class="icoTwitter" href="https://twitter.com/pecchandigarh" title="Twitter"><i class="fa fa-twitter"></i></a></li> 
+            <li><a class="icoGoogle" href="https://plus.google.com/111309164844966427284/about" title="Google +"><i class="fa fa-google-plus"></i></a></li> 
+            <li><a class="icoLinkedin" href="https://www.linkedin.com/company/pec-university-of-technology-chandigarh" title="Linkedin"><i class="fa fa-linkedin"></i></a></li> 
+            <li><a class="icoGoogle" href="/videos" title="Youtube"><i class="fa fa-youtube"></i></a></li> 
+           </ul>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </section>
+    <section id="section-postcontent" class="section section-postcontent"> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="region region-postcontent-first"> 
+        <div id="block-block-18" class="block block-block title-line"> 
+         <h3 class="block-title"><span class="title">Recent Research Activities</span></h3> 
+         <div class="content"> 
+          <div class="row" style="margin-bottom: 20px;"> 
+           <div class="col-sm-4 col-md-4"> 
+            <div class="post"> 
+             <div class="post-img-content">
+              <img class="img-responsive" src="https://pec.ac.in/sites/default/files/uploads/events/pec_award.jpg">
+              <span class="post-title"><a href="https://pec.ac.in/events/dr-sanjeev-kumar-pec-india-2020-top-cited-paper-award"><b>India 2020 Top Cited Paper</b></a><br><b>Award</b></span>
+             </div> 
+             <div class="content_post"> 
+              <div>
+               Dr. Sanjeev Kumar, Applied Science Department has received the India 2020 Top Cited Paper Award for article “Sr and Mn co-doped sol-gel derived BiFeO3 ceramics with enhanced magnetism and reduced leakage current” Nandni Sharma et al 2017 Mater. Res. Express 4 015702. The Top Cited Paper Award is for corresponding authors from India, for work published across the entire IOP Publishing portfolio.
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="col-sm-4 col-md-4"> 
+            <div class="post"> 
+             <div class="post-img-content">
+              <img class="img-responsive" src="https://pec.ac.in/sites/default/files/uploads/events/internet-of-things-CC_PEC.jpg">
+              <span class="post-title"><a href="https://pec.ac.in/events/six-weeks-workshop-web-development-introduction-programming-internet-things-iot"><b>Web Development &amp; Programming the IoT</b></a><br><b>Workshop</b></span>
+             </div> 
+             <div class="content_post"> 
+              <div>
+               The Computer Centre, Punjab Engineering College (Deemed to be University), Chandigarh in association with Chandigarh Sub Section of IEEE is organized a Six Weeks Workshop on Web Development &amp; Introduction to Programming the Internet of Things (IoT). The workshop comprised of theoretical and practical sessions on daily basis. Expert Lectures were also conducted during the workshop.
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="col-sm-4 col-md-4"> 
+            <div class="post"> 
+             <div class="post-img-content">
+              <img class="img-responsive" src="https://pec.ac.in/sites/default/files/uploads/events/national_seminar_pec_4-2-19.jpg">
+              <span class="post-title"><a href="https://pec.ac.in/events/kalpana-chawla-memorial-lecture-national-seminar"><b>Space Flight: Challenges &amp; Opportunities</b></a><br><b>National Seminar</b></span>
+             </div> 
+             <div class="content_post"> 
+              <div>
+               A National Seminar on ‘Space Flight: Challenges and Opportunities’ was held at the Punjab Engineering College (Deemed to be University), Chandigarh. Notably, the seminar was conducted to commemorate the 16th death anniversary of Dr. Kalpana Chawla, the star alumni of Aerospace Engineering Department of PEC, who disappeared in the sky during Columbia Disaster on 1st February 2003.
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </section>
+    <section id="section-bottom" class="section section-bottom" style="background-color:#5f574f;"> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="region region-bottom-first col-xs-12 col-sm-6 col-md-3 col-lg-3"> 
+        <div id="block-menu-menu-consultancy-menu" class="block block-menu"> 
+         <h3 class="block-title"><span class="title">Research</span></h3> 
+         <div class="content"> 
+          <ul class="menu">
+           <li class="first leaf"><a href="/research/overview" title="">Overview</a></li> 
+           <li class="leaf"><a href="/research-groups" title="">Research Groups </a></li> 
+           <li class="leaf"><a href="/sponsored-research" title="">Sponsored Research</a></li> 
+           <li class="leaf"><a href="/consultancy" title="">Consultancy</a></li> 
+           <li class="leaf"><a href="/coe/collaborations" title="">Collaborations</a></li> 
+           <li class="last leaf"><a href="/house-projects" title="">In-House Projects</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="region region-bottom-second col-xs-12 col-sm-6 col-md-3 col-lg-3"> 
+        <div id="block-menu-menu-infrastructure-menu" class="block block-menu"> 
+         <h3 class="block-title"><span class="title">Academics</span></h3> 
+         <div class="content"> 
+          <ul class="menu">
+           <li class="first leaf"><a href="/current-students/time-tables" title="">Time Tables</a></li> 
+           <li class="leaf"><a href="/current-students/examination" title="">Examination</a></li> 
+           <li class="leaf"><a href="/academics/calendar" title="">Academic Calendar</a></li> 
+           <li class="leaf"><a href="/programmes/ug/structure" title="">Undergraduate Programme</a></li> 
+           <li class="leaf"><a href="/programmes/pg/structure" title="">Postgraduate Programme</a></li> 
+           <li class="last leaf"><a href="/programmes/phd" title="">PhD Programme</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="region region-bottom-third col-xs-12 col-sm-6 col-md-3 col-lg-3"> 
+        <div id="block-menu-menu-facilities-menu" class="block block-menu"> 
+         <h3 class="block-title"><span class="title">Facilities</span></h3> 
+         <div class="content"> 
+          <ul class="menu">
+           <li class="first leaf"><a href="/library" title="">Library</a></li> 
+           <li class="leaf"><a href="/computer-centre" title="">Computer Centre</a></li> 
+           <li class="leaf"><a href="/Sports" title="">Sports</a></li> 
+           <li class="leaf"><a href="/hostels" title="">Hostels</a></li> 
+           <li class="leaf"><a href="/medical-facilities" title="">Medical Facility</a></li> 
+           <li class="last leaf"><a href="/workshops" title="">Workshops</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="region region-bottom-fourth col-xs-12 col-sm-6 col-md-3 col-lg-3"> 
+        <div id="block-menu-menu-credits-menu" class="block block-menu"> 
+         <h3 class="block-title"><span class="title">Information</span></h3> 
+         <div class="content"> 
+          <ul class="menu">
+           <li class="first leaf"><a href="http://172.15.0.24/enotices/" title="">E-Notices</a></li> 
+           <li class="leaf"><a href="/multimedia" title="">Multimedia</a></li> 
+           <li class="leaf"><a href="/prospectus" title="">Brochure &amp; Prospectus</a></li> 
+           <li class="leaf"><a href="http://crikc.puchd.ac.in/" title="">CRIKC</a></li> 
+           <li class="leaf"><a href="/institute/sexual-harassment-complaints-committee" title="">Sexual Harassment Complaints</a></li> 
+           <li class="last leaf"><a href="/credits" title="">Website Credits</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </section>
+    <section id="section-footer" class="section section-footer" style="background-color:#8c1515;"> 
+     <div class="container"> 
+      <div class="row"> 
+       <div class="region region-footer-first col-xs-12 col-sm-12 col-md-6 col-lg-6"> 
+        <div id="block-block-8" class="block block-block"> 
+         <div class="content"> 
+          <p>Copyright © 2020 Punjab Engineering College (Deemed to be University), Sector 12, Chandigarh, 160012</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="region region-footer-second col-xs-12 col-sm-12 col-md-6 col-lg-6"> 
+        <div id="block-menu-menu-footer-menu" class="block block-menu"> 
+         <div class="content"> 
+          <ul class="menu">
+           <li class="first leaf"><a href="/web_editor" title="">Web Editor</a></li> 
+           <li class="leaf"><a href="/anti-ragging" title=""> Anti-Ragging</a></li> 
+           <li class="leaf"><a href="/privacy-policy" title="">Privacy Statement</a></li> 
+           <li class="last leaf"><a href="/reporting-copyright-infringement" title="">Report Copyright Infringement</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </section>
+   </div> 
+   <div class="region region-page-bottom"> 
+   </div> 
+  </div>  
+ </body>
+</html>
