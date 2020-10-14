@@ -58,19 +58,28 @@ public class GridProblem {
         //     System.out.println(crops[i]);
         // }
         Arrays.setAll(cropsSB, i -> new StringBuilder(crops[i]));
+        int output_replants = 0;
         if(cropsSB.length==1){
             if(cropsSB[0].length()==1){
-                return 0;
+                output_replants = 0;
             }else{
-                return replant_helper_Horizontal_Vector(cropsSB);
+                output_replants = replant_helper_Horizontal_Vector(cropsSB);
             }
         }else{
             if(cropsSB[0].length()==1){
-                return replant_helper_Vertical_Vector(cropsSB);
+                output_replants = replant_helper_Vertical_Vector(cropsSB);
             }else{
-                return replant_helper(cropsSB,0,0);
+                output_replants = replant_helper(cropsSB,0,0);
             }
         }
+        System.out.println("Your Final Plot State:");
+        for(int i=0;i<cropsSB.length;i++){
+            for(int j=0;j<cropsSB[i].length();j++){
+                System.out.print(cropsSB[i].charAt(j)+" ");
+            }
+            System.out.println();
+        }
+        return output_replants;
     }
     public static int replant_helper_Horizontal_Vector(StringBuilder[] crops) {
         int horizontal_replacement_count = 0;
@@ -177,21 +186,23 @@ public class GridProblem {
                 return right;
             }
         }else{
-            if(col+1>crops[row].length()){
+            if(col+1>crops[row].length()-1){
                 if(crops[row].charAt(col) == crops[row-1].charAt(col) && crops[row].charAt(col) == crops[row].charAt(col-1) && crops[row].charAt(col) != crops[row+1].charAt(col)){
                     crops[row].setCharAt(col, ';');
                     return 1;
                 }
             }else{
-                if(crops[row].charAt(col) == crops[row-1].charAt(col) && crops[row].charAt(col) == crops[row].charAt(col-1) && crops[row].charAt(col) != crops[row+1].charAt(col) && crops[row].charAt(col) != crops[row].charAt(col+1)){
-                    crops[row].setCharAt(col, ';');
-                    return 1;
+                if(col!=0){
+                    if(crops[row].charAt(col) == crops[row-1].charAt(col) && crops[row].charAt(col) == crops[row].charAt(col-1) && crops[row].charAt(col) != crops[row+1].charAt(col) && crops[row].charAt(col) != crops[row].charAt(col+1)){
+                        crops[row].setCharAt(col, ';');
+                        return 1;
+                    }
                 }
             }
             if(col==crops[0].length()-1){
                 int down = replant_helper(crops, row+1, col);
                 if(crops[row].charAt(col) == crops[row+1].charAt(col)){
-                    crops[0].setCharAt(col,';');
+                    crops[row].setCharAt(col,';');
                     down++;
                 }
                 return down;
@@ -219,7 +230,7 @@ public class GridProblem {
                             crops[row].setCharAt(col, ';');
                             right++;
                         }
-                        if(crops[row].charAt(col) == crops[row].charAt(col)){
+                        if(crops[row].charAt(col) == crops[row+1].charAt(col)){
                             crops[row].setCharAt(col, ';');
                             down++;
                         }
